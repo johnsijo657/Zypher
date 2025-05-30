@@ -21,6 +21,7 @@ Pyside6
 
 Cryptography Library (AES Encryption)
 
+© 2025 JOHN — This project is protected. Do not copy without permission.
 
 
 
